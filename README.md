@@ -1,2 +1,3 @@
 # abe487
-MetaFunc Course 
+
+Assignments for ABE 487 (metagenomics)
